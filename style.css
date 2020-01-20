@@ -17,3 +17,21 @@ main {
 #tableRules {
   text-align: center;
 }
+
+#playerHand,
+#dealerHand {
+  border: 3vmin solid whitesmoke;
+  border-radius: 5vmin;
+}
+
+#dealButton {
+  width: 30vw;
+}
+
+#hitButton {
+  width: 14.825vw;
+}
+
+#standButton {
+  width: 14.825vw;
+}
